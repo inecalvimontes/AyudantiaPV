@@ -1,0 +1,81 @@
+#cabecera{
+    height: 50px;
+    background: paleturquoise;
+    width: auto;
+}
+#menu{
+    font-family: monospace;
+    font-size: 12px;
+    color: grey;
+    position: relative;
+    left: 5px;
+    top: 10px;
+}
+#titulo{
+    font-family: monospace;
+    font-size: 40px;
+    color: grey;
+    position: relative;
+    left: 20px;
+}
+#parrafo{
+    font-family: monospace;
+    font-size: 15px;
+    color: grey;
+    width: 450px;
+    position: relative;
+    left: 25px;
+}
+#d1{
+    width: 510px;
+    margin: 5px 5px 5px;
+    border: 5px double grey;
+    position: relative;
+    left: 20px;
+}
+#d2{
+    width: 600px;
+    margin: 5px 5px 5px;
+    border: 5px double grey;
+    position:absolute;
+    right: 50px;
+    top: 100px;
+}
+#subtitulo{
+    font-size: 20px;
+    color:grey;
+    font-family: monospace;
+    position: relative;
+    left:20px;
+    top: 20px;
+}
+#d3{
+    position: relative;
+    left: 320px;
+    top: 65px;
+    width: 200px;
+    margin: 5px 5px 5px;
+    border: 5px double grey;
+    padding: 5px;
+}
+#d4{
+    position: relative;
+    left: 20px;
+    bottom: 75px;
+    width: 250px;
+    margin: 5px 5px 5px;
+    border: 5px double grey; 
+}
+#lista{
+    position: relative;
+    right: 5px;
+    bottom: 5px;
+    font-family: monospace;
+    color: grey;
+    font-size: 15px;
+}
+#pie{
+    position: relative;
+    height: 50px;
+    background: paleturquoise;
+}
